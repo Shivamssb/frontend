@@ -7,12 +7,12 @@ null => standalone value(or empty value) type - object
 undefined => undefined
 symbol =>  for unique value
 */
-let num=45
-console.log(typeof num)
+let nums =45
+console.log(typeof nums)
 var names = "Shivam"
 console.log(typeof names)
 let numbers = null
 console.log(typeof numbers)
 const ser = undefined
-console.log(typeof ser)
+console.log(typeof ser )
 
