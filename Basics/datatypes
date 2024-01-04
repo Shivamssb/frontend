@@ -1,0 +1,18 @@
+/*Data Types(primitive)
+number => 123
+bigInt => big number 
+string => " "
+boolean => true/false
+null => standalone value(or empty value) type - object
+undefined => undefined
+symbol =>  for unique value
+*/
+let num=45
+console.log(typeof num)
+var names = "Shivam"
+console.log(typeof names)
+let numbers = null
+console.log(typeof numbers)
+const ser = undefined
+console.log(typeof ser)
+
